@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- This is a newsletter v1 written and tested in [**python 3.8**](https://www.python.org/downloads/release/python-382/) for [BSK Esport](https://teambsk.fr)
+- This is a newsletter v1 written and tested in [**python 3.8**](https://www.python.org/downloads/release/python-382/)
 
 - Made for Windows but can easily be adapted for Linux or other OS with a few changes.
 
