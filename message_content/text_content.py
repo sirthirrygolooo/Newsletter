@@ -1,0 +1,1 @@
+text = "Hi!\nHow are you?\nHere is the link you wanted:\nhttp://www.python.org"
